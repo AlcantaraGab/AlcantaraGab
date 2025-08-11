@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![AlcantaraGab's Stats](https://github-readme-stats.vercel.app/api?username=AlcantaraGab&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![AlcantaraGab's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlcantaraGab&theme=vue-dark&hide_border=true)
+
+![AlcantaraGab's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlcantaraGab&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+
